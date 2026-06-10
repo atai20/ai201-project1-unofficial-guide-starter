@@ -1,0 +1,22 @@
+Source: RateMyProfessors — Upper division EECS course reviews (compiled)
+Courses: CS 162 Operating Systems, CS 161 Computer Security, CS 188 Intro to AI
+
+CS 162 — Operating Systems (various instructors)
+Review 1: Projects are the course. Pintos project takes 40+ hours. Start project 2 the day it's released. Exams are open-note but time-pressured. TAs run essential section reviews the week before midterms.
+
+Review 2: Necessary for systems recruiting. Don't take with 61C unless you hate sleep. Threading concepts appear on every exam.
+
+CS 161 — Security (Popa when teaching)
+Review 3: Popa's 161 is legendary. Homework is Crypto + systems security combined. Exams are hard but fair if you do all practice problems on the course site. Group homework allowed with documented collaboration.
+
+Review 4: Security mindset is the real takeaway. Final project is a capture-the-flag style challenge — start early.
+
+CS 188 — Intro to AI (Klein / Abbeel era reviews still referenced)
+Review 5: Python-based projects. Search algorithms, MDPs, reinforcement learning basics. Project 3 (reinforcement learning) breaks GPAs if you don't read the spec carefully.
+
+Review 6: 188 is less brutal than 162 but still 20+ hours weekly near project deadlines. EdStem is active — search before posting.
+
+GENERAL UPPER DIV ADVICE
+- Prerequisite enforcement is real — don't skip 61B/70 before 162/188.
+- Course capacity is limited. Use phase 1 enrollment priority wisely.
+- Pair upper divs: one project-heavy + one exam-light DeCal balances workload.

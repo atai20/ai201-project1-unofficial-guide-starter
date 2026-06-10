@@ -1,0 +1,14 @@
+Source: RateMyProfessors — CS 70 Discrete Math and Probability (compiled reviews)
+Instructors: Various — reviews focus on course structure
+
+Review 1 (Ayala): CS 70 with Ayala is proof-heavy. Homework is 6-8 hours weekly. The epsilon-delta style proofs on exams trip up students who memorized without understanding. Discussion worksheets are the best prep for midterms.
+
+Review 2 (Wu): Lectures are clear but fast. Wu expects you to have math maturity from Math 54 or equivalent. Probability section in the second half feels like a different course — many switch to SUGAR tutoring.
+
+Review 3: The course has a reputation as a weeder class. Average on MT1 is often around 65%. There is a curve but it's not generous. Go to homework parties in Soda Hall — the collective intelligence helps.
+
+Review 4: Yan (when teaching): Yan's exams are extremely fair if you do every discussion problem twice. He writes questions similar to homework. Office hours queue is long — arrive 30 minutes early or use Piazza.
+
+Review 5: Textbook is free online (Satisfiability and Computation). Don't buy anything. Past exams are posted but some questions repeat with different numbers — understand the method, don't memorize answers.
+
+Review 6: CS 70 is required for CS majors and a prerequisite for upper div theory. If you're struggling, the CS 70 study group Discord has nightly sessions during exam weeks. Probability topics: Bayes, linearity of expectation, and Markov chains appear every semester.

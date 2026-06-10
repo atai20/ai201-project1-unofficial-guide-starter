@@ -1,0 +1,15 @@
+Source: RateMyProfessors — CS 61B Data Structures (compiled student reviews)
+Primary instructor referenced: Josh Hug — Rating 4.3/5 (128 ratings)
+Tags: Clear grading criteria, Accessible outside class, Caring
+
+Review 1: Hug's 61B is hard but fair. Projects (especially the last one) are substantial — start the heap project two weeks early. Exams test concepts from lecture and lab, not trick questions. He publishes detailed exam rubrics after each test.
+
+Review 2: Best feedback of any CS prof I've had. Autograder gives partial credit but Hug's written feedback on style points actually helps you improve. Go to his office hours even if you don't have questions — he remembers faces.
+
+Review 3: Lecture attendance isn't required but highly recommended. Hug demos data structures live and those demos show up on exams. Discussion sections vary wildly by TA — swap early if yours isn't helpful.
+
+Review 4: The course uses Java. If you only know Python from 61A, budget time to learn Java in the first two weeks. There are optional labs that aren't graded but mirror exam problems.
+
+Review 5: Hug curves at the end based on class performance. Don't compare raw scores to other schools' 61B courses. Midterm 1 covers asymptotics and basic structures; Midterm 2 is heavier on trees and graphs.
+
+Review 6: Group projects are allowed on some assignments but the final project is individual. Academic integrity is taken seriously — don't share code on GitHub even in private repos.

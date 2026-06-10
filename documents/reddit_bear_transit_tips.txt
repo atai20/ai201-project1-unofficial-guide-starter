@@ -1,0 +1,16 @@
+Source: r/berkeley — "Bear Transit tips for new students"
+Thread collected August 2024
+
+u_commuter_from_afar: Bear Transit is free for students with Cal ID. Runs loops between campus, BART, and remote dorms (Clark Kerr, Foothill, Stadium). Does NOT replace AC Transit for getting to Oakland or SF.
+
+u_schedule_bot: Download the Transit app — Bear Transit GPS is integrated. Buses are often 3-5 minutes late. During rain, every bus is full. Plan buffer time for 8am classes if you live at Clark Kerr.
+
+u_night_rider: Night Safety Shuttle runs after regular Bear Transit stops (after midnight on weekends). Call or use app to request pickup on campus perimeter. Safer than walking alone through campus at 2am.
+
+u_route_map: Route A serves central campus to BART. Route C goes to Clark Kerr. Route H hits Foothill. Memorize your route the first week — signs at stops are confusing.
+
+u_freshman_mistake: Don't assume Bear Transit runs during winter break or spring break — service is reduced or suspended. Check schedule on parking.berkeley.edu/transit.
+
+u_bike_alt: Many hill residents buy used bikes from Berkeley Bike Collective. Faster than waiting for bus uphill. Secure your bike — cable locks get cut weekly.
+
+u_accessibility: All Bear Transit buses are wheelchair accessible. If you have mobility needs, Disability Access Services provides additional shuttle options.

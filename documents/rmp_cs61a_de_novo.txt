@@ -1,0 +1,16 @@
+Source: RateMyProfessors — CS 61A instructors (compiled student reviews)
+Course: CS 61A Structure and Interpretation of Computer Programs
+
+Professor: Nicholas Weaver — Rating 2.1/5 (42 ratings)
+Tags: Tough grader, Lecture heavy, Extra credit
+
+Review 1: Weaver's exams are notoriously difficult. He writes his own questions that go beyond the homework. Attendance isn't mandatory but skipping lecture hurts — he covers edge cases not in the textbook. Office hours are packed the week before midterms. Curve exists but don't rely on it.
+
+Review 2: Took Weaver Fall 2024. Homework is weekly in Python/SQL/Scheme and takes 15-20 hours if you're learning. His lectures move fast. The midterm average was a 62. Final was harder. Study past exam questions posted on the course website.
+
+Review 3: Weaver gives detailed feedback on projects but response time on Ed posts can be slow. If you want an easier 61A experience, wait for a different semester's staff — the course varies a lot by who teaches.
+
+Professor: John DeNero (historical reference reviews) — Rating 4.5/5
+Review 4: DeNero built this course — lectures are polished, exams fair, alignment between homework and tests is tight. When DeNero teaches, the course is at its best. Check who's actually lecturing your semester on the CS department site.
+
+General CS 61A advice from reviews: Start homework early. Use the CS 61A online textbook. Discussions are where TAs explain exam-style problems. The first midterm catches people off guard every year.

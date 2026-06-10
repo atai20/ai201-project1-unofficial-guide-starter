@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "question": "What do students say about wait times at Crossroads during lunch?",
+    "expected": "Lunch rush 12–1:30 pm brings 20–25 minute waits for hot food; shorter lines before noon, after 2 pm, or at the salad bar.",
+    "answer": "[GROQ_API_KEY not set — retrieval-only mode]\n\nTop retrieved excerpt from reddit_crossroads_dining.txt:\nu/calfoodie23: Crossroads is the biggest dining hall on campus and it shows. Lunch rush between 12-1:30 is brutal — expect 20-25 minute waits for hot food unless you go before noon or after 2. The salad bar is actually decent and usually has shorter lines. Their stir-fry station is popular but runs out of protein fast during peak hours.",
+    "sources": [
+      "reddit_crossroads_dining.txt",
+      "reddit_clark_kerr_dining.txt",
+      "reddit_foothill_dining.txt"
+    ],
+    "top_chunks": [
+      {
+        "source": "reddit_crossroads_dining.txt",
+        "distance": 0.3829612731933594,
+        "text": "u/calfoodie23: Crossroads is the biggest dining hall on campus and it shows. Lunch rush between 12-1:30 is brutal — expect 20-25 minute waits for hot food unless you go before noon or after 2. The sal"
+      },
+      {
+        "source": "reddit_crossroads_dining.txt",
+        "distance": 0.5340843200683594,
+        "text": "heir stir-fry station is popular but runs out of protein fast during peak hours. u/bear_meals: Pro tip: Crossroads has the best dessert rotation on campus. The soft serve machine breaks down at least "
+      },
+      {
+        "source": "reddit_clark_kerr_dining.txt",
+        "distance": 0.5465443730354309,
+        "text": "u_kerr_resident: Living at Clark Kerr means CK dining is home base. It's the smallest residential dining hall and feels more like a cafe than a cafeteria. Wait times are basically zero except Sunday b"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Which CS professor gives the most useful feedback according to reviews?",
+    "expected": "Josh Hug (CS 61B) — reviewers praise detailed autograder feedback, written style comments, and accessible office hours.",
+    "answer": "[GROQ_API_KEY not set — retrieval-only mode]\n\nTop retrieved excerpt from rmp_cs61b_hug.txt:\nnd lab, not trick questions. He publishes detailed exam rubrics after each test. Review 2: Best feedback of any CS prof I've had. Autograder gives partial credit but Hug's written feedback on style points actually helps you improve. Go to his office hours even if you don't have questions — he remembers faces.\n\nReview 3: Lecture attendance isn't required but highly recommended. Hug demos data struc",
+    "sources": [
+      "rmp_cs61b_hug.txt",
+      "rmp_cs61a_de_novo.txt",
+      "rmp_cs70_wu_yan.txt",
+      "rmp_eecs_upper_div.txt"
+    ],
+    "top_chunks": [
+      {
+        "source": "rmp_cs61b_hug.txt",
+        "distance": 0.4913366436958313,
+        "text": "nd lab, not trick questions. He publishes detailed exam rubrics after each test. Review 2: Best feedback of any CS prof I've had. Autograder gives partial credit but Hug's written feedback on style po"
+      },
+      {
+        "source": "rmp_cs61a_de_novo.txt",
+        "distance": 0.5025066137313843,
+        "text": "wait for a different semester's staff — the course varies a lot by who teaches. Professor: John DeNero (historical reference reviews) — Rating 4.5/5\nReview 4: DeNero built this course — lectures are p"
+      },
+      {
+        "source": "rmp_cs61a_de_novo.txt",
+        "distance": 0.5068038702011108,
+        "text": "ts best. Check who's actually lecturing your semester on the CS department site. General CS 61A advice from reviews: Start homework early. Use the CS 61A online textbook. Discussions are where TAs exp"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Is the Berkeley housing lottery completely random?",
+    "expected": "No — lottery numbers are random within class year, but re-applicants get priority over new applicants; disabled students and athletes have separate processes.",
+    "answer": "[GROQ_API_KEY not set — retrieval-only mode]\n\nTop retrieved excerpt from housing_lottery_guide.txt:\nQ: Is the housing lottery actually random? A: Partially. Berkeley Housing assigns a random lottery number to every applicant within their class year ( freshman, sophomore, etc.). You pick room groups before the lottery opens. When your number comes up, you select from remaining rooms in real time. Priority groups exist: re-applicants who lived on campus the prior year get priority over new applica",
+    "sources": [
+      "housing_lottery_guide.txt",
+      "off_campus_southside_housing.txt"
+    ],
+    "top_chunks": [
+      {
+        "source": "housing_lottery_guide.txt",
+        "distance": 0.14626389741897583,
+        "text": "Q: Is the housing lottery actually random? A: Partially. Berkeley Housing assigns a random lottery number to every applicant within their class year ( freshman, sophomore, etc.). You pick room groups "
+      },
+      {
+        "source": "housing_lottery_guide.txt",
+        "distance": 0.39275503158569336,
+        "text": "n campus the prior year get priority over new applicants in the same class year. Disabled students and athletes have separate assignment processes outside the general lottery. So the number is random,"
+      },
+      {
+        "source": "housing_lottery_guide.txt",
+        "distance": 0.44200146198272705,
+        "text": "ing.berkeley.edu in March. Missing the application deadline means waitlist only. Q: Can you game the lottery?\nA: Students report that forming a group of 4-6 compatible roommates before lottery day hel"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "What mold-related warning do students give about off-campus housing?",
+    "expected": "Several units in the Dwight-Telegraph corridor have mold complaints; students advise asking about ventilation, checking for musty smells during tours, and documenting move-in conditions.",
+    "answer": "[GROQ_API_KEY not set — retrieval-only mode]\n\nTop retrieved excerpt from off_campus_southside_housing.txt:\n: noise, older buildings, pest issues in some units. Always tour before signing. u_mold_warning: WARNING — several units in the Dwight-telegraph corridor have had mold complaints posted on the Berkeley Tenant's Union site. Ask landlords about ventilation and recent remediation. If you smell musty during tour, leave. Document everything with photos at move-in.",
+    "sources": [
+      "off_campus_southside_housing.txt",
+      "freshman_survival_guide.txt",
+      "housing_lottery_guide.txt"
+    ],
+    "top_chunks": [
+      {
+        "source": "off_campus_southside_housing.txt",
+        "distance": 0.3762304186820984,
+        "text": ": noise, older buildings, pest issues in some units. Always tour before signing. u_mold_warning: WARNING — several units in the Dwight-telegraph corridor have had mold complaints posted on the Berkele"
+      },
+      {
+        "source": "freshman_survival_guide.txt",
+        "distance": 0.5971317887306213,
+        "text": "avoid porch theft. Address: use your dorm mail code exactly or packages bounce. CAMPUS MAP\n- Dwinelle Hall has two floors both numbered \"1\" — allow extra time for classes there.\n- Moffitt Library is 2"
+      },
+      {
+        "source": "housing_lottery_guide.txt",
+        "distance": 0.6259489059448242,
+        "text": "icants get whatever single beds remain, often in triples converted from doubles. Q: What if you get a bad number?\nA: Waitlist movement happens throughout summer as people cancel. Join the Facebook gro"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "How long does the CS 162 Pintos project take according to reviews?",
+    "expected": "40+ hours; students recommend starting project 2 the day it is released.",
+    "answer": "[GROQ_API_KEY not set — retrieval-only mode]\n\nTop retrieved excerpt from rmp_eecs_upper_div.txt:\nCourses: CS 162 Operating Systems, CS 161 Computer Security, CS 188 Intro to AI\n\nCS 162 — Operating Systems (various instructors)\nReview 1: Projects are the course. Pintos project takes 40+ hours. Start project 2 the day it's released. Exams are open-note but time-pressured. TAs run essential section reviews the week before midterms.",
+    "sources": [
+      "rmp_eecs_upper_div.txt",
+      "rmp_cs61a_de_novo.txt",
+      "rmp_cs70_wu_yan.txt"
+    ],
+    "top_chunks": [
+      {
+        "source": "rmp_eecs_upper_div.txt",
+        "distance": 0.3637017607688904,
+        "text": "Courses: CS 162 Operating Systems, CS 161 Computer Security, CS 188 Intro to AI\n\nCS 162 — Operating Systems (various instructors)\nReview 1: Projects are the course. Pintos project takes 40+ hours. Sta"
+      },
+      {
+        "source": "rmp_eecs_upper_div.txt",
+        "distance": 0.6271734237670898,
+        "text": "ect 3 (reinforcement learning) breaks GPAs if you don't read the spec carefully. Review 6: 188 is less brutal than 162 but still 20+ hours weekly near project deadlines. EdStem is active — search befo"
+      },
+      {
+        "source": "rmp_cs61a_de_novo.txt",
+        "distance": 0.6300945281982422,
+        "text": "a 62. Final was harder. Study past exam questions posted on the course website. Review 3: Weaver gives detailed feedback on projects but response time on Ed posts can be slow. If you want an easier 61"
+      }
+    ]
+  }
+]
